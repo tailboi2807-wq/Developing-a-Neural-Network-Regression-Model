@@ -43,9 +43,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: Shree Chandru R
+### Name: MUKESH M
 
-### Register Number:212224230264 
+### Register Number:212225240093
 
 ```
 import torch
